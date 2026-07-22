@@ -1,10 +1,10 @@
 # Working With AI — My Principles
 
-> AI should amplify human expertise, not replace it. Its value is not in producing answers faster — it lies in helping people ask better questions, explore better alternatives, and build better solutions.
+> AI should amplify human expertise, not replace it. Its value is not in producing answers faster, it lies in helping people ask better questions, explore better alternatives, and build better solutions.
 
 ## Why I Use AI
 
-AI is a working tool. I use it the same way I use any other professional instrument — to get specific tasks done faster and with better quality. It helps me explore ideas, analyze alternatives, sharpen communication, and accelerate implementation.
+AI is a working tool. I use it the same way I use any other professional instrument to get specific tasks done faster and with better quality. It helps me explore ideas, analyze alternatives, sharpen communication, and accelerate implementation.
 
 It does not replace critical thinking, professional judgment, or accountability. Whether I am analyzing business processes, designing information architectures, building reporting systems, or writing software, the responsibility for the final outcome is mine.
 
@@ -14,7 +14,7 @@ It does not replace critical thinking, professional judgment, or accountability.
 
 Technology should support better decisions, not make decisions for people. The same principle applies to AI.
 
-Good solutions begin with understanding the business problem. AI is one of the tools I use during that process — the same way I use Excel or Power BI. It is never the source of truth.
+Good solutions begin with understanding the business problem. AI is one of the tools I use during that process, the same way I use Excel or Power BI. It is never the source of truth.
 
 ## How I Work
 
@@ -40,7 +40,7 @@ AI is part of my daily work across several areas:
 - **Software development** — prototyping, code review, debugging, documentation.
 - **Data & reporting** — validating KPI definitions, designing spreadsheet models, discussing analytical approaches.
 
-Across all of these, AI output is treated as a suggestion — never a conclusion.
+Across all of these, AI output is treated as a suggestion, never a conclusion.
 
 ## Verification
 
